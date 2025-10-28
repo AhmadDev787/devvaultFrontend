@@ -1,0 +1,6 @@
+Background	#0F1115 (rich dark navy)
+Surface (cards)	#1A1D23
+Primary accent	#00BFA6 (mint green / teal)
+Secondary accent	#5CE1E6
+Text	#E6E6E6
+Tag color variant	#2EE59D, #FFB347, #FF6B6B
